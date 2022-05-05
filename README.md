@@ -20,9 +20,9 @@
 #### Some magic item :magic_wand: :
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
-<!-- ### Github Analytics 📈
+### Github Analytics 📈
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsmaelHK1&show_icons=true&locale=en" alt="ismaelhk1" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsmaelHK1&show_icons=true&locale=en" alt="ismaelhk1" /></p>
 
 # Connect with me:
 
