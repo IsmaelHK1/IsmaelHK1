@@ -2,9 +2,9 @@
 
 ## Just for introduce me : 
 
-- 🌱 I’m a 20 years old student from Ynov.
-- 👯 Searching for sandwich course(= alternance) and work experience(= stage).
-- 💻 Working as bakckend Web developpement.
+- 🌱 I’m a 21 years old student from Ynov.
+- 👯 Searching for random project too learn more.
+- 💻 Working as FullStack Web developpement.
 - 😄 Love gaming and sport.
 - 📫 you can contact me if you want hacquin.ismael@gmail.com
 
