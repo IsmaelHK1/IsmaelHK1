@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" />
 
-## Just for introduce me : 
+## Just to introduce me : 
 
 - 🌱 I’m a 21 years old student from Ynov.
 - 👯 Searching for random project too learn more.
