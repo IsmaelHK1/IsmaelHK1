@@ -2,7 +2,7 @@
 
 ## Just to introduce me : 
 
-- 🌱 I’m a 22 years old student from Ynov.
+- 🌱 I’m a 23 years old student from Ynov.
 - 👯 Searching for random project too learn more.
 - 💻 Working as FullStack Web developpement.
 - 😄 Love gaming and sport.
